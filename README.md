@@ -7,7 +7,6 @@ Este projeto tem como objetivo otimizar o tempo de execução manual da equipe d
 - **Captura de dados do sistema web**: Utiliza Selenium para acessar o site, navegar até a seção de solicitações e extrair informações relevantes.
 - **Armazenamento em banco de dados**: Insere os dados capturados em uma tabela MySQL, com verificações para evitar duplicidades.
 - **Disparo de e-mails**: Gera e-mails automaticamente com os detalhes das solicitações e anexos, enviando para o destinatário correto.
-- **Cálculo de indicadores**: Integra-se com uma página de terceiros para facilitar o cálculo de indicadores de performance.
 
 ## Benefícios
 
